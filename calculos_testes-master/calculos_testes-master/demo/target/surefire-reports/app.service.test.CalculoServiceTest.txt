@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: app.service.test.CalculoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.69 s -- in app.service.test.CalculoServiceTest
